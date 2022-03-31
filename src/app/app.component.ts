@@ -134,7 +134,7 @@ export class AppComponent implements OnInit {
           name:"Naveen",
           type: 'column',
           data:[1,2,3,],
-          borderRadius: 20,
+          // borderRadius: 20,
         },
         {
           name: "Tom",
